@@ -1,0 +1,12 @@
+.DS_Store
+**/.DS_Store
+
+node_modules/
+dist/
+build/
+
+*.log
+
+# Raw design source files are too large for normal GitHub pushes.
+*.psd
+assets/projects/**/99-source/
